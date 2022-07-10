@@ -1,3 +1,7 @@
+# Basic 
+the code for smart contract is [here](https://github.com/rashaabdulrazzak/showcode-ch1-smart)
+
+the live website is [here](https://hellorust.onrender.com/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
